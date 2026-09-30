@@ -5,10 +5,11 @@ I'm a **Mathematics & Mathematical Statistics student** interested in data scien
 ### 🌱 Currently learning
 
 - 📐 Mathematics
-- 📊 Statistics
+- 📊 Statistics and Statistical Inference
+- 💻 Computer Science
 - 🐍 Python
 - ☕ Java
-- 💻 Computer Science
+- 📊 R
   
 ### 📚 What I'm focusing on
 
