@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Sima!
 
-<!--
-**Sima-Kwenxe/Sima-Kwenxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Mathematics & Mathematical Statistics student** interested in data science.
 
-Here are some ideas to get you started:
+### 🌱 Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📐 Mathematics
+- 📊 Statistics
+- 🐍 Python
+- ☕ Java
+- 💻 Computer Science
+  
+### 📚 What I'm focusing on
+
+- Building strong foundations in programming
+- Learning different programming languages
+- Developing my understanding of statistics and mathematics
+- Exploring data analysis and data science
+- Improving my problem-solving and computational skills
+  
+### 📈 My Learning Journey
+
+- I'm currently focused on learning and building my foundations before taking on larger projects.
+- I'll be using GitHub to document my progress, experiments, coursework, and future projects as I continue learning.
